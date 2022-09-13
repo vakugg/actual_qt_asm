@@ -9,7 +9,7 @@
 #define moloko_size 5*1024*1024/4
 #define reg_quant 5
 
-// it's truly new
+
 
 
 uint32_t LRD_rand(uint32_t *our_arr)
